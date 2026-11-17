@@ -1,0 +1,9 @@
+id_scooter,modelo,placa,estado,bateria_pct,tarifa_hora_soles
+S001,Xiaomi M365,SC-100,disponible,56,5
+S002,Ninebot Max,SC-107,alquilado,34,7
+S003,Segway E2,SC-114,disponible,65,6
+S004,Xiaomi M365,SC-121,mantenimiento,98,5
+S005,Ninebot Max,SC-128,disponible,21,7
+S006,Segway E2,SC-135,alquilado,24,6
+S007,Xiaomi M365,SC-142,disponible,83,5
+S008,Ninebot Max,SC-149,disponible,27,7
